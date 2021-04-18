@@ -1,0 +1,56 @@
+Week 1
+In this weeks tutorial we first made groups for the project. The group i'm in is sanchit, 
+martin, sebastian, victor and myself with Sebastian as the scrum master.We then had to 
+decide which project to do for the capstone project and so we settled on the investment simulator project.
+We then discussed the way we would approach the project and the technology we would use.
+
+Week 2
+This week we set up the project with the github classroom repo and google doc for the project proposal.
+Sebastian added some starting code for the frontend and we discussed what architecture we would use for the project,
+deciding on having a react typescript frontend with a node backend and mongo DB databse (MERN). We also did our user stories
+and background for the project proposal.
+
+Week 3
+This week was when the proposal was due so the majority of the work this week was finalising the proposal.
+I helped Sanchit who was working on the storyboard and helped Martin look over the background section  
+for the proposal. We also began planning on how we would approach our coding sprints which would start next week.
+
+Week 4
+This week we bagan our first sprint. To begin, I had never touched javascript or typescript and had no experience with
+node, react or mongoDB. So the majority of the start of this week was going through tutorials to understand the architecture.
+I then started work on the backend as we delegated the backend work to me and Victor. My main focus of this week was helping 
+to setup the mongoDB and link it to our backend, then beginning to write routes for login and registration.
+
+Week 5
+This week was when we had our presentation. The main focus on this week as such was making sure our website was presentable.
+I spent alot of time at the start of this week working on user authentication using passport js and JWT for the registration and login endpoints.
+Then making sure I made login persistent by creating a mongoose schema for Users and having those endpoints create users in our DB. I also set up 
+redux on the frontend to persist login. The demo on Thursday went well and we received good feedback.
+
+Week 6
+This week my main focus was cleaning up the login and registration endpoints then adding routes 
+for editing user balance. We also worked on fixing up and finalising retrospective A from the previous week's demo. 
+Also made a start on adding an endpoint for the user to add stocks to their watchlist.
+
+Week 7
+This week was quite relaxed. The main focus of this week was working on adding functionality on the backend
+to support user watchlists and linking that up to the frontend store which Seb had implemented. Also cleaned 
+up the validation helper functions for registration and login.
+
+Week 8
+This week was our second presentation. The main focus for me this week was finalising the main functionality
+we needed on the backend which was to allow users to simul buy and simul sell stocks as well as keep track
+of their transaction history and profits. I decided to add a hashmap to the user model to track owned stocks as
+well as the total trading profit, updating these on all transactions. Also helped victor add endpoints to update
+username, email and password. The presentation went well this week and we got some good feedback going into the
+last two weeks. 
+
+Week 9
+This week I was pretty chill since most of the backend functionality was now finished. I spent some time cleaning
+up some of my backend work and fixing some bugs in the logic for simul buying and selling. We also rehearsed
+a practise demonstration which we gave in the tutorial to get ready for the final demo in week 10.
+
+Week 10
+This week is submission week. I spent the Monday cleaning up all my code on the backend and adding comments to make the 
+code more understandable. Will also look over the report on Monday and add any finishing touches. The next few days will
+be spent practising for the presentation so we can nail it on Thursday.

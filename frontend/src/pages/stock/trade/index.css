@@ -1,0 +1,46 @@
+.sub {
+  padding-bottom: 15px;
+}
+
+.buySellHeading {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+/* .buySellContainer{
+  display: flex;
+} */
+.buyBox {
+  padding: 10px;
+  width: 30%;
+  text-align: center;
+  border: 1px solid #2ad77d;
+  float: left;
+  margin-right: 20px;
+}
+.selectedBuy {
+  background-color: #2ad77d;
+  color: white;
+}
+
+.selectedSell {
+  background-color: #ff4600;
+  color: white;
+}
+
+.sellBox {
+  padding: 10px;
+  border: 1px solid #ff4600;
+  width: 30%;
+  text-align: center;
+  float: left;
+}
+
+.container {
+  width: 100%;
+  margin: auto;
+}
+
+.clear {
+  clear: both;
+}

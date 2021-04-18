@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders nav in logged out state correctly 1`] = `
+<Blueprint3.Navbar
+  fixedToTop={true}
+>
+  <Blueprint3.NavbarGroup
+    align="left"
+  >
+    <img
+      alt="Stonks logo"
+      height="32px"
+      src="logo.jpg"
+      width="32px"
+    />
+    <Blueprint3.NavbarHeading
+      className="heading"
+    >
+      stonks
+    </Blueprint3.NavbarHeading>
+    <Blueprint3.NavbarDivider />
+    <Blueprint3.Button
+      active={false}
+      className="bp3-minimal"
+      icon="home"
+      onClick={[Function]}
+      text="Home"
+    />
+    <Blueprint3.NavbarDivider />
+    <Blueprint3.Button
+      active={false}
+      className="bp3-minimal"
+      icon="chart"
+      onClick={[Function]}
+      text="Create account"
+    />
+    <Blueprint3.Button
+      active={false}
+      className="bp3-minimal"
+      icon="log-in"
+      onClick={[Function]}
+      text="Login"
+    />
+    <Blueprint3.NavbarDivider />
+    <div
+      className="slider"
+    >
+      <Blueprint3.Switch
+        checked={false}
+        innerLabel="Light theme"
+        innerLabelChecked="Dark theme"
+        large={true}
+        onChange={[Function]}
+      />
+    </div>
+  </Blueprint3.NavbarGroup>
+</Blueprint3.Navbar>
+`;

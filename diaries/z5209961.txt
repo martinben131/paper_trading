@@ -1,0 +1,42 @@
+Week 1
+This week we made groups (5 people including myself) for the capstone project subject.
+First, we played some simple ice-breaker games to get to know each other and then we also discussed which project we would like to work on. 
+We settled on the investment simulator after some debate. 
+We then chose our scrum master (Sebastian) who set up the Jira project and also our google doc to begin our collaboration for the proposal due in week 3. 
+This week, I also added and edited some basic information regarding the background of our project.
+
+Week 2
+This week we joined the classroom github repository and after some basic exploration of github, I added this weekly project log to the github repo.
+Additionally, also read through some of the user stories we had added, edited some and add some of my own ideas too. After our weekly meet-up session again, I was assigned to finish the background of our investment simulator as well as assist Sanchit with developing some story board ideas/ implementation techniques. 
+Furthermore, other work was divided amongst our group members evenly and we also finalised the system architectures that we are going to use when our coding sprints begin. 
+
+Week 3
+The proposal was due at the end of this week so we had to finalise a lot of the things that we had discussed about in our weekly meet-up sessions. 
+I completed writing the background section after seeking some advice from my group members in regards to the competitors.
+Furthermore, after Sanchit informed us to split the story boards, I made some of those. 
+After collating all of our work, we submitted our proposal with all members of the group satisfied and we began to plan and think about the upcoming week where we begin to start coding.
+
+Week 4
+This week we began coding the application and met up in person to get everyone on the same page and understand
+the workflow. From there, I was started off learning the basic concepts of React and was assigned to make a profile 
+page. This was initially a struggle since I had little experience in front-end development. However, after consulting my group for advice this process became easier. After implementing this, I added additional css to improve the overall aesthetic of our website and align my design more closely to our group image.
+
+Week 5
+This week we were having our first demonstration of our project. This week I mainly focussed on ensuring that the 
+items I had developed were functional and worked properly. Furthermore, I implmented the frontend for an individual on the create account page to choose their desired balance. Initially, I thought it would be a a good idea to choose a manual option, however, after deliberating with my group I decided that a slider would be more intuitive. During our lab, the presentation went well with Sebastian being our main presenter. We then received 
+constructive feedback from our tutor which we noted down. We also had our first retrospective where we reflected on our first sprint and talked about how we could improve our progress for the future sprint. 
+
+Week 6
+After our first demonstration last week, I was tasked with the role of developing a proper homepage for our application with 3 main goals in mind. Those goals were to clearly demonstrate the purpose of our website and the service that we provided, a summary of the value proposition that we provide to potential users and finally a workflow diagram so that users can understand the workflow to use our application. This week was mainly spent designing and thinking about potential ways to present this information. 
+
+Week 7
+This week was a busy week due to coming off the mid-sem break meaning that I had both exams and assignments to do as well. This week I began to create the outline of our page, asking Sebastian for advice along the way as he was more experienced in frontend development. Furthermore, I added some aesthetic changes to the overall website. 
+
+Week 8 
+This week we had our second sprint demonstration as well as our second retrospective. This week I finished up the homepage except for the workflow component. The presentation once again went quite smoothly and we recevied feedback that for the final presentation all of us would be required to present. We took note of this in preparation for our final demonstration. Additionally, I was assigned to begin working on the final report as it would allow I did not have many assigned tasks left to develop and it would mean that all componenets we needed to submit would be completed on time. 
+
+Week 9 
+This week in our lab we were fortunate enough to have a practice demonstration with our tutor. She gave us advice with regards to showing less code during our presentation and to focus more on the user's perspective as an application rather than focussing on the technical development sides. We also asked some questions during the lab to clarify marking criteria and we realised as a group our code had to be cleaner overall and contain more comments. Furthermore, during this week I began working on the functionality and background parts of the final report whilst also asking my team members for implementation tricks they used. I also conducted research into licensing for the thrid-party applications that we utilised.
+
+Week 10
+

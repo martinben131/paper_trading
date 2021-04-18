@@ -1,0 +1,26 @@
+.stock {
+  width: 210px;
+  height: 200px;
+  text-align: center;
+  margin: 0px 10px 20px 10px;
+}
+
+.stockContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  align-content: flex-start;
+}
+
+.headingContainer {
+  height: 100px;
+}
+
+.up {
+  color: #0d8050;
+}
+
+.down {
+  color: #c23030;
+}

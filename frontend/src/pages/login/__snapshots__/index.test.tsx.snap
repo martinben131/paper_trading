@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders login page correctly 1`] = `
+<Fragment>
+  <h4
+    className="bp3-heading"
+  >
+    Login
+  </h4>
+  <Blueprint3.FormGroup>
+    <Blueprint3.InputGroup
+      id="username"
+      onChange={[Function]}
+      placeholder="Enter email here"
+    />
+    <br />
+    <Blueprint3.InputGroup
+      id="password"
+      onChange={[Function]}
+      placeholder="Enter password here"
+      type="password"
+    />
+    <br />
+    <Blueprint3.Button
+      disabled={true}
+      intent="success"
+      onClick={[Function]}
+      text="Submit"
+    />
+  </Blueprint3.FormGroup>
+</Fragment>
+`;

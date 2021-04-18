@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders trade page correctly 1`] = `
+<Blueprint3.Card
+  elevation={0}
+  interactive={false}
+>
+  <div
+    className="sub"
+  >
+    Current Price: $
+     
+  </div>
+  <div
+    className="sub"
+  >
+    Units Owned: 
+    0
+     
+  </div>
+  <div
+    className="sub"
+  >
+    Total Value: $
+    0.00
+     
+  </div>
+  <div
+    className="sub"
+  >
+    Average Price: $
+    0.00
+     
+  </div>
+  <Blueprint3.Button
+    icon="eye-on"
+    onClick={[Function]}
+    text="Add to watchlist"
+  />
+  <div
+    className="buySellHeading"
+  >
+    <div
+      className="container"
+    >
+      <div
+        className="buyBox selectedBuy"
+        onClick={[Function]}
+      >
+        Buy
+      </div>
+      <div
+        className="sellBox "
+        onClick={[Function]}
+      >
+        Sell
+      </div>
+      <div
+        className="clear"
+      />
+    </div>
+  </div>
+  <Blueprint3.NumericInput
+    allowNumericCharactersOnly={true}
+    buttonPosition="right"
+    clampValueOnBlur={false}
+    defaultValue=""
+    large={true}
+    majorStepSize={10}
+    max={NaN}
+    min={0}
+    minorStepSize={0.1}
+    onValueChange={[Function]}
+    selectAllOnFocus={false}
+    selectAllOnIncrement={false}
+    stepSize={1}
+    value={0}
+  />
+  <Blueprint3.Button
+    disabled={true}
+    onClick={[Function]}
+    text="Confirm purchase"
+  />
+</Blueprint3.Card>
+`;

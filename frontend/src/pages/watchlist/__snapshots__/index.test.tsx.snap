@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders watchlist page correctly 1`] = `
+<div
+  className="stockContainer"
+>
+  <StockCard
+    change={1.26}
+    code="AAPL"
+    key="AAPL"
+    name="Apple Inc."
+    price={123.45}
+  />
+</div>
+`;

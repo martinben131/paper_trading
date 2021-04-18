@@ -1,0 +1,67 @@
+Week 1:
+This week we formed groups and decided to move ahead with the investment simulator project for this term. 
+We also decided roles, where Seb was going to be the scrum master and the rest of us are going to be developers. 
+Seb then setup the Jira board and a google doc for the proposal. 
+I wrote some user stories in the Jira board and also drew up a basic overview of the storyboard we are required to submit. 
+I also wrote some of the background information.
+
+Week 2:
+Got to join the github classroom repo and was able to upload this diary to here. 
+Also Victor gave some advice on the user stories I had written and I adjusted some of them based on his feedback.
+We met up again and finalised the proposal sections and who is in charge of which section. I was set to do the
+project objectives and novel functionality along with storyboard. 
+
+Week 3:
+I finished the project objectives and novel functionality and began thinking about the storyoard. 
+This is when I realised, the storyboard was going to be a big project and would be more efficient
+to split within the different group members. Finished the external actors section.
+Finished the storboarding for the login process along with the buy/sell. Finished the overall
+storyboard and collated all the different frames together. Submitted the proposal.
+
+Week 4:
+This week we started coding on the application. I was in charge of the search  
+page and the stocks page. I started off by adding a search bar and then 
+requesting stock data from the backend. The next step was to add a filter 
+to the stocks based on the value of the search bar and displaying the appropriate
+stocks and their data. Next was modifying the css of the page to make it look aesthetic
+and nice.
+
+Week 5:
+This was presentation week. This week I started off by changing the stocks page 
+to allow for backend to send stock data over. With that fixed, the stocks page was 
+ready with appropriate error messages and formatting along with filtering
+based on name and stock code. The presentation ran smoothly and we got some
+constructive feedback from our tutor regarding the progress of the project
+and some pointers to take note of.
+
+Week 6:
+This week started off pretty relaxed. I made a new individual stocks page which will 
+hit the backend for the data for one specfic stock, along with if the user
+owns that stock to show the appropriate buy/sell buttons. Then I setup the graphing
+capabilities which would take in historical data to represent the historical movement
+of the stock. 
+
+Week 7:
+This week was quite busy with alot of other assignments so not much work was done on 
+this project this week. I did fix up the graphs becuase I realised I was using the base
+high charts package, but then switched to High Stocks charts which gave much more 
+capabilities on top of the basic charting.
+
+Week 8
+This week we had the presentation the presentation and retrospective B. The presentation went well
+and we got some feedback from the feedback. It was mostly positive. In this week I fixed some bugs 
+with the charting and then updated the look of the stock page, more specifically the buy/sell button.
+Added some colour to them and also changed the logic a bit from what Sebastian had started. I also
+updated the dashboard page to appear in a tabulated manner and add statistics for unrealised profit.
+Combining these profits I added a total unrealised profit to the top of the page. We also realised a bug
+with the way the profit was being calculated and then that was solved.
+
+Week 9
+This week was mostly getting everything ready for submission and adding some final changes to the project.
+I added some more statistics to the dashboard page and also worked on the stocks page where I allowed rows 
+to be sorted based on the column if a certain column was clicked (e.g sort by price, name etc). I also 
+worked on the report with Martin and we got quite a lot of that done. Also I cleaned the frontend, added comments
+and made the code cleaner in general.
+
+Week 10
+Submission

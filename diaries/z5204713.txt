@@ -1,0 +1,54 @@
+Week 1:
+
+We formed groups and selected the investment simulator project to do since most of us were interested in investing and have used multiple similar products. 
+Our group formation was also quite straightforward since we were friends beforehand. We decided roles and they were as follows
+
+Me (Victor) - Backend
+Seb - Scrum Master, front-end
+Sanchit - Front-end
+Martin - Backend
+Lumina - Fill
+
+Week 2:
+
+Seb set up a github classroom repo and a google doc for our project proposal. We also started writing user stories this week. 
+Sanchit wrote most of the user stories and I commented on a lot of them so we could discuss and improve them together as a group. 
+
+
+Week 3:
+
+Our project proposal was due this week. The brunt of this weeks work was the storyboard. Sanchit delegated numerous tasks/screens that
+we each needed to complete for the storyboard. After this was completed, I had a much clearer idea of what the project might look like.
+
+Week 4:
+
+This week we started coding. Our group decided to meet up in person at Sebastian's house as we thought it would be more efficient.
+We coded for roughly 5 hours getting all the basic infrastructure up and completing a few user stories. I set up the backend with
+node js and also linked it to a mongoDB database. I also wrote up some basic routes that we could hit and try test with the front end. 
+
+Week 5: 
+This week, we had our first project demonstration. Going into this, I had completed the endpoints to retrieve stock data from the Dow Jones stocks. 
+This data however, was not yet saved in the database and as a result, not persistent. The demo went well and we received feedback such as focusing 
+on login/logout for too long and needing to make the home page UI more elegant. We also did our first team retrospective syncoronously over video call. 
+
+Week 6:
+Following last week's project demonstration, I needed to ensure that the stock data was actually being saved into the database. This was critical as 
+Tiingo restricted the number of API calls per hour and this was needed such that multiple calls to the endpoint were not invalidated. Sanchit and I 
+also started work on the historical stock data. He worked on frontend and needed the historical pricing of stocks up to one year ago. Thus, I wrote a 
+new route to handle stock information dating up to one year ago.
+
+Week 7:
+This week was mid-sem break so we took it quite chill. I just spent this week fixing up a user story that was meant to be completed in an earlier sprint.
+My CRON job used to fetch stock prices every morning wasn't working properly and I looked into what the issue was this week.
+
+Week 8:
+Most of the backend functionality had been done up to this point and I just needed to do a few final touch ups. Updating the user details wasn't yet possible
+so I worked on writing routes for updating the users username, email and password. This was fairly doable as I could look at Lumina's previous code. I also 
+went to do some additional functionality since I had time to spare. We decided to add news articles and as such I wrote an endpoint which fetched news articles
+related to a specific stock from seeking alpha (a site that Sebastian suggested). I also did the frontend work for this and added a list to the stocks page.
+
+Week 9:
+Today we did our practice final demonstration! This was to prepare us for next week's final demo and to get feedback on how we were going. We decided to delegate each team member a part to speak about and I spoke about the backend architecture. The project demo went well with the only major feedback being that Sebastian and I should make slides and talk at the start rather than the end as this was easier to follow than showing code. This week I also added comments to the backend, wrote some tests and restructured some code, moving non route functions into a helper functions folder.
+
+Week 10:
+Submission

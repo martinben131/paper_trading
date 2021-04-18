@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders stock correctly 1`] = `
+<Fragment>
+  <div
+    className="firstRow"
+  >
+    <div
+      className="productDetails"
+    >
+      <Chart />
+    </div>
+    <div
+      className="buySellContainer subtitleHeading"
+    >
+      <Trade />
+    </div>
+  </div>
+  <div
+    className="newsSection"
+  >
+    <News />
+  </div>
+</Fragment>
+`;

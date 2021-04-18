@@ -1,0 +1,80 @@
+Week 1
+
+In the tutorial, we formed our group and decided on the investment simulator project
+together. We also got to know each other. I created the Jira board and a Google Doc to write
+our proposal. We then talked about some of the goals for our project and the
+technologies we wanted to use. I wrote the cover page and some basic information
+for the proposal.
+
+Week 2
+
+The GitHub link was sent around so I linked my account and checked out the repository.
+I added some starting code to the repository for the frontend. We decided on a react
+typescript frontend with a node backend connected to a database that connects to the
+external api. I also had a look over the user stories, emailed our group progression
+and worked on the software architecture diagram.
+
+Week 3
+
+This week I worked on the project proposal. I created some stories on Jira and started
+the first sprint with the other members of the team. Otherwise, I worked on writing up
+the system architecture in the proposal, drawing diagrams and delegating tasks for others
+to work for the proposal. By the end of the week, we are submitting the proposal and then
+work can begin on coding for the first sprint. 
+
+Week 4
+
+This week is the first week we worked on the code properly. As the scrum master, I broke down
+the stories with subtasks and started work on the frontend. I focused on getting the frontend
+working as an SPA, with a navigation bar at the top that links to various pages and a home
+page with some text about the product. This will allow other people to start work on other
+pages inside the website.
+
+Week 5
+
+Week 5 contained the presentation, so there was some work done to make sure our project was
+in a presentable state. Apart from managing the Jira board and showcasing the site in the
+demo, I worked on more of the frontend. I added react-router-dom to the project and added
+code to the home page, login page and profile page. After the demo, I worked on the watchlist
+page, which now only requires data from the backend for it to be completed.
+
+Week 6
+
+Week 6 was flexibility week, so there was no tutorial. However, I worked on changing redux
+to react-sweet-state to better manage state across the project. This was an action item
+from the retrospective, as the redux store we were using was overly complicated for
+the project. This means only a bit more work is required to tie in all the backend
+endpoints into the frontend. I worked on balance on the frontend, adding in a number
+picker. I also talked to some of the backend developers, getting them to create
+the endpoints required on the frontend. Finally, I submitted the retrospective.
+
+Week 7
+
+In week 7, I did a lot of frontend development. I cleaned up some of the store, completed watchlist
+by adding it to the stocks page, the individual stock pages, creating the cards and wiring it up
+to the backend. I also linked up balance on account creation, fixed stock fetching, cleaned up the
+frontend more generally.
+
+Week 8
+
+Week 8 contained the presentation and retrospective B. As the scrum master, I had to lead both. I also
+added the ability to buy and sell stocks, created a dashboard with owned stocks, added a dropdown
+to appear on stock purchase, updated the css. This allowed some other team members to work on their
+frontend tasks, as I had gotten the state and backend calling out of the way. There was also a bugs
+with calculating profit that I came across, so that was really good to find. Overall, with one more
+sprint, I think we are progressing well as a team.
+
+Week 9
+
+Week 9 involved a lot of cleaning up. Regarding functionality, I added stock history to the frontend
+and added the ability to update usernames, passwords and emails. I also added frontend testing with
+jest and enzyme. We now have over 20 tests on our frontend, with a snapshot test on every page and
+more testing in other areas. I went through and added comments to a lot of the uncommented code,
+fixed some bugs we had outstanding and did some refactoring. We also gave a practice demonstation
+in our tutorial, so I helped to put that together.
+
+Week 10
+
+Week 10 is submission and presentation time! I spent the Monday adding any final touches to the codebase
+(including arrows for sorting on the stock page) and working on the report. I will spend Tuesday and
+Wednesday working on the presentation for Thursday, which should conlude COMP3900!

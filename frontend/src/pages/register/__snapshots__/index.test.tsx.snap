@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders register page correctly 1`] = `
+<Fragment>
+  <h4
+    className="bp3-heading"
+  >
+    Create account
+  </h4>
+  <Blueprint3.FormGroup>
+    <Blueprint3.InputGroup
+      id="username"
+      onChange={[Function]}
+      placeholder="Enter username here"
+    />
+    <br />
+    <Blueprint3.InputGroup
+      id="email"
+      onChange={[Function]}
+      placeholder="Enter email here"
+      type="email"
+    />
+    <br />
+    <Blueprint3.InputGroup
+      id="password"
+      onChange={[Function]}
+      placeholder="Enter password here (must be at least 6 characters)"
+      type="password"
+    />
+    <br />
+    <Blueprint3.InputGroup
+      id="confirm_password"
+      onChange={[Function]}
+      placeholder="Confirm password"
+      type="password"
+    />
+    <br />
+    <Component>
+      Choose desired starting balance! (More than $0)
+    </Component>
+    <Blueprint3.Slider
+      disabled={false}
+      initialValue={0}
+      intent="primary"
+      labelRenderer={[Function]}
+      labelStepSize={10000}
+      max={100000}
+      min={0}
+      onChange={[Function]}
+      showTrackFill={true}
+      stepSize={1000}
+      value={0}
+      vertical={false}
+    />
+    <br />
+    <Blueprint3.Button
+      disabled={true}
+      intent="success"
+      onClick={[Function]}
+      text="Submit"
+    />
+  </Blueprint3.FormGroup>
+</Fragment>
+`;

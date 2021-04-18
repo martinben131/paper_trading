@@ -1,0 +1,92 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders nav in logged in state correctly 1`] = `
+<Blueprint3.Navbar
+  fixedToTop={true}
+>
+  <Blueprint3.NavbarGroup
+    align="left"
+  >
+    <img
+      alt="Stonks logo"
+      height="32px"
+      src="logo.jpg"
+      width="32px"
+    />
+    <Blueprint3.NavbarHeading
+      className="heading"
+    >
+      stonks
+    </Blueprint3.NavbarHeading>
+    <Blueprint3.NavbarDivider />
+    <Blueprint3.Button
+      active={false}
+      className="bp3-minimal"
+      icon="home"
+      onClick={[Function]}
+      text="Home"
+    />
+    <Blueprint3.Button
+      active={false}
+      className="bp3-minimal"
+      icon="chart"
+      onClick={[Function]}
+      text="Stocks"
+    />
+    <Blueprint3.Button
+      active={false}
+      className="bp3-minimal"
+      icon="dashboard"
+      onClick={[Function]}
+      text="Dashboard"
+    />
+    <Blueprint3.Button
+      active={false}
+      className="bp3-minimal"
+      icon="eye-open"
+      onClick={[Function]}
+      text="Watchlist"
+    />
+    <Blueprint3.NavbarDivider />
+    <Blueprint3.Button
+      active={false}
+      className="bp3-minimal"
+      icon="user"
+      onClick={[Function]}
+      text="Account"
+    />
+    <Blueprint3.Button
+      className="bp3-minimal"
+      icon="log-out"
+      onClick={[Function]}
+      text="Logout"
+    />
+    <Blueprint3.NavbarDivider />
+    <Blueprint3.Tag>
+      username
+    </Blueprint3.Tag>
+    <Blueprint3.NavbarDivider />
+    <Blueprint3.Tag>
+      Balance: $
+    </Blueprint3.Tag>
+    <Blueprint3.NavbarDivider />
+    <Blueprint3.Tag
+      intent="none"
+    >
+      Profit: $
+    </Blueprint3.Tag>
+    <Blueprint3.NavbarDivider />
+    <div
+      className="slider"
+    >
+      <Blueprint3.Switch
+        checked={false}
+        innerLabel="Light theme"
+        innerLabelChecked="Dark theme"
+        large={true}
+        onChange={[Function]}
+      />
+    </div>
+  </Blueprint3.NavbarGroup>
+</Blueprint3.Navbar>
+`;

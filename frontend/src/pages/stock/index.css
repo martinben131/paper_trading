@@ -1,0 +1,26 @@
+.productDetails {
+  float: left;
+  width: 60%;
+  padding-top: 50px;
+  padding-left: 75px;
+}
+
+.buySellContainer {
+  padding-left: 50px;
+  float: right;
+  width: 40%;
+  padding-top: 160px;
+}
+
+.subtitleHeading {
+  font-size: 25px;
+}
+
+.newsSection {
+  padding-top: 50px;
+  padding-left: 75px;
+}
+
+.firstRow {
+  display: flex;
+}

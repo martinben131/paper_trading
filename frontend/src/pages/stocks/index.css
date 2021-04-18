@@ -1,0 +1,20 @@
+.stockTable {
+  padding-top: 20px;
+  width: 100%;
+}
+
+.stockTable tr {
+  line-height: 25px;
+}
+
+.emptyState {
+  padding-top: 20px;
+}
+
+.up {
+  color: #0d8050;
+}
+
+.down {
+  color: #c23030;
+}

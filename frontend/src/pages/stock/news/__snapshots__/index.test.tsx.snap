@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders news page correctly 1`] = `
+<Fragment>
+  <div
+    className="newsTitle"
+  >
+    News Articles
+  </div>
+</Fragment>
+`;

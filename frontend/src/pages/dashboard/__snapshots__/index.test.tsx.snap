@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders dashboard correctly 1`] = `
+<Blueprint3.NonIdealState
+  action={
+    <Blueprint3.Button
+      intent="success"
+      onClick={[Function]}
+      rightIcon="arrow-right"
+      text="See all stocks"
+    />
+  }
+  description="Visit the stocks page to buy some stocks. You have $100.00 to buy stocks with."
+  icon="clean"
+  title="You don't own any stocks"
+/>
+`;

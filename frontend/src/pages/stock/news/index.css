@@ -1,0 +1,22 @@
+.newsTitle {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.articleSection {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.arrowLink {
+  padding-left: 15px;
+}
+
+.newsArticle {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.articleDate {
+  font-size: 16px;
+}

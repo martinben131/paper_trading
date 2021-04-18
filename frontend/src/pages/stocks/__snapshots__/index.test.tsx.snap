@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders stocks page correctly 1`] = `
+<Fragment>
+  <Blueprint3.InputGroup
+    large={true}
+    onChange={[Function]}
+    placeholder="Enter stock code..."
+    type="search"
+  />
+  <table
+    className="stockTable bp3-html-table bp3-html-table-bordered bp3-html-table-condensed bp3-html-table-striped bp3-interactive sortable "
+    id="StocksTable"
+  >
+    <thead>
+      <tr>
+        <th
+          onClick={[Function]}
+        >
+          Stock Code 
+        </th>
+        <th
+          onClick={[Function]}
+        >
+          Stock Name 
+        </th>
+        <th
+          onClick={[Function]}
+        >
+          Price 
+        </th>
+        <th
+          onClick={[Function]}
+        >
+          Day 
+        </th>
+        <th>
+          Watchlist
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr
+        key="AAPL"
+      >
+        <td
+          onClick={[Function]}
+        >
+          <b>
+            AAPL
+          </b>
+        </td>
+        <td
+          onClick={[Function]}
+        >
+          Apple Inc.
+        </td>
+        <td
+          onClick={[Function]}
+        >
+          $
+          123.45
+        </td>
+        <td
+          onClick={[Function]}
+        >
+          <b
+            className="up"
+          >
+            +1.26%
+          </b>
+        </td>
+        <td>
+          <Blueprint3.Button
+            fill={true}
+            icon="eye-off"
+            intent="warning"
+            minimal={true}
+            onClick={[Function]}
+          />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</Fragment>
+`;

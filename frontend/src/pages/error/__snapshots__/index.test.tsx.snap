@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders error page correctly 1`] = `
+<Fragment>
+  <h1
+    className="bp3-heading"
+  >
+    Uh-oh 
+    <span
+      aria-label="Crying Face"
+      role="img"
+    >
+      😢
+    </span>
+  </h1>
+  <br />
+  <h1
+    className="bp3-heading"
+  >
+    404 - Page not found
+  </h1>
+  <br />
+  <Blueprint3.Button
+    intent="primary"
+    large={true}
+    onClick={[Function]}
+    rightIcon="home"
+    text="Go home"
+  />
+</Fragment>
+`;
