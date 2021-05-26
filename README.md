@@ -68,10 +68,3 @@ You will have to do so in the following files:
 - backend/config/config.env
 - frontend/package.json
 
-## Jira Instance
-
-<https://comp3900-h17a-stonks.atlassian.net/>
-
-## Github Repo
-
-<https://github.com/unsw-cse-capstone-project/capstone-project-comp3900-h17a-stonks>
